@@ -8,9 +8,6 @@ feature_image_width: 400
 
 ![](/images/titusdecali.jpg)
 
-### Team
-
-
 {% include team.html %}
 
 
