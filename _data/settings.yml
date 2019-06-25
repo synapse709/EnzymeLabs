@@ -12,8 +12,8 @@ menu_settings:
       url: '/'
     # - title: 'Blog'
     #   url: 'https://medium.com/@enzymelabs'
-    - title: 'About'
-      url: '/about'
+    - title: 'Team'
+      url: '/team'
     - title: 'Contact'
       url: '/contact'
 
